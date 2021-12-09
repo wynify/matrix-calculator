@@ -1,4 +1,4 @@
-//USE VALGRIND ./*FILENAME TO TEST FOR MEMORYLEAK, Sweety~
+//USE VALGRIND ./*FILENAME TO TEST FOR MEMORYLEAK
 
 #include <stdio.h>
 #include <stdlib.h>
