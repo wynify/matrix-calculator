@@ -19,7 +19,7 @@
 
 
 12月12日
-  ### Matrix Multiplication_v3
+  ### Matrix Calculato_v3
 - [+] Addition matrix
 - [+] Subtraction matrix
 
