@@ -15,3 +15,12 @@
 - [ ] Trigonometric functions
 - [ ] Vectors
 - [ ] Determinants of matrices 
+
+  ### Matrix Multiplication_v3
+- [+] Addition matrix
+- [+] Subtraction matrix
+
+>### Need:
+- [ ] Trigonometric functions
+- [ ] Vectors
+- [ ] Determinants of matrices 
