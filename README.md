@@ -6,7 +6,7 @@
   The program is written in <b>C</b>, does not claim to be super great performance and is open to criticism. Basically, this is just a small school project. :)</p>
   
 11月12日
-  ### Matrix Multiplication_v2
+  ### Matrix Calculator_v2
 - Added a new terminal gui 
 - multipication of matrixs with different size.
 
@@ -19,7 +19,7 @@
 
 
 12月12日
-  ### Matrix Calculato_v3
+  ### Matrix Calculator_v3
 - [+] Addition matrix
 - [+] Subtraction matrix
 
