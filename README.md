@@ -5,22 +5,25 @@
 
   The program is written in <b>C</b>, does not claim to be super great performance and is open to criticism. Basically, this is just a small school project. :)</p>
   
+11月12日
   ### Matrix Multiplication_v2
 - Added a new terminal gui 
 - multipication of matrixs with different size.
 
->### Need:
+### Need:
 - [ ] Addition matrix
 - [ ] Subtraction matrix
 - [ ] Trigonometric functions
 - [ ] Vectors
 - [ ] Determinants of matrices 
 
+
+12月12日
   ### Matrix Multiplication_v3
 - [+] Addition matrix
 - [+] Subtraction matrix
 
->### Need:
+### Need:
 - [ ] Trigonometric functions
 - [ ] Vectors
 - [ ] Determinants of matrices 
